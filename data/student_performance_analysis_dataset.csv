@@ -1,0 +1,501 @@
+student_id,age,gender,city,department,course,study_hours_per_day,attendance_percentage,assignment_score,midterm_score,final_score,total_score,grade,exam_status,scholarship,internet_access,extracurricular,parent_education
+STU0001,23,Male,Nagpur,Computer Science,Data Analytics,1.7,88.5,80,33,47,49.4,D,Pass,Yes,Yes,Yes,Postgraduate
+STU0002,24,Male,Gwalior,Arts,BA English,4.8,84.5,66,80,63,68.7,C,Pass,No,Yes,No,Postgraduate
+STU0003,25,Male,Nagpur,Arts,BA English,2.7,85.5,75,72,76,74.6,B,Pass,No,Yes,No,High School
+STU0004,23,Male,Gwalior,Management,BBA,2.0,66.5,77,70,69,70.9,B,Pass,No,Yes,No,High School
+STU0005,22,Male,Pune,Science,BSc Maths,3.3,82.0,81,46,66,63.0,C,Pass,Yes,Yes,No,Graduate
+STU0006,22,Female,Bhopal,Science,BSc Physics,2.7,80.3,78,75,80,78.1,B,Pass,Yes,Yes,No,High School
+STU0007,25,Female,Mumbai,Science,BSc Maths,3.9,80.0,83,63,75,73.0,B,Pass,No,Yes,Yes,High School
+STU0008,21,Female,Pune,Arts,BA English,3.9,71.4,74,74,77,75.5,B,Pass,No,Yes,Yes,High School
+STU0009,19,Male,Nagpur,Commerce,BCom,1.8,83.6,56,56,85,70.5,B,Pass,No,Yes,Yes,Postgraduate
+STU0010,17,Male,Nagpur,Computer Science,BSc IT,0.8,84.1,68,49,40,48.3,D,Pass,No,Yes,No,Graduate
+STU0011,23,Male,Indore,Arts,BA Economics,3.5,81.1,91,81,77,81.0,B,Pass,Yes,No,No,Diploma
+STU0012,19,Male,Pune,Arts,BA English,2.9,57.4,58,64,74,67.8,C,Pass,No,Yes,No,Diploma
+STU0013,21,Male,Indore,Science,BSc Maths,2.6,69.4,68,77,67,70.2,B,Pass,Yes,Yes,Yes,Graduate
+STU0014,18,Female,Lucknow,Arts,BA English,3.4,91.8,66,53,60,59.1,C,Pass,No,Yes,Yes,Postgraduate
+STU0015,19,Other,Pune,Arts,BA Economics,3.0,77.4,63,72,61,64.7,C,Pass,No,Yes,No,Postgraduate
+STU0016,23,Female,Nagpur,Computer Science,BSc IT,5.0,81.1,72,91,84,83.7,B,Pass,No,Yes,Yes,Graduate
+STU0017,19,Male,Jabalpur,Science,BSc Maths,2.7,98.5,56,56,83,69.5,C,Pass,Yes,Yes,Yes,High School
+STU0018,24,Male,Gwalior,Computer Science,Data Analytics,0.5,77.3,53,37,45,44.2,D,Pass,No,Yes,Yes,Postgraduate
+STU0019,25,Female,Jabalpur,Computer Science,BSc IT,2.7,92.0,78,88,69,76.5,B,Pass,No,Yes,Yes,High School
+STU0020,22,Female,Nagpur,Arts,BA Economics,6.7,100.0,72,81,68,72.7,B,Pass,Yes,Yes,No,High School
+STU0021,19,Female,Pune,Commerce,Accounting,1.7,70.6,56,57,35,45.8,D,Pass,No,Yes,No,High School
+STU0022,25,Female,Jabalpur,Science,BSc Maths,2.7,82.8,93,50,65,66.1,C,Pass,No,Yes,Yes,High School
+STU0023,24,Male,Jaipur,Arts,BA Economics,3.5,70.2,79,80,70,74.8,B,Pass,No,Yes,Yes,High School
+STU0024,17,Female,Gwalior,Science,BSc Maths,6.1,100.0,86,72,71,74.3,B,Pass,No,Yes,No,Postgraduate
+STU0025,24,Male,Lucknow,Commerce,Accounting,2.5,81.7,71,60,66,65.2,C,Pass,No,Yes,Yes,Graduate
+STU0026,21,Female,Jaipur,Commerce,BCom,2.7,53.4,75,84,37,58.7,C,Pass,No,Yes,Yes,Postgraduate
+STU0027,18,Male,Gwalior,Arts,BA English,5.6,94.5,85,100,90,92.0,A,Pass,No,Yes,No,High School
+STU0028,21,Female,Jabalpur,Management,Business Analytics,2.9,94.4,81,96,84,87.0,A,Pass,No,Yes,No,Graduate
+STU0029,18,Male,Lucknow,Science,BSc Biology,1.8,78.5,52,51,68,59.7,C,Pass,No,Yes,No,Graduate
+STU0030,21,Female,Mumbai,Management,BBA,0.5,69.7,72,29,78,62.1,C,Pass,No,Yes,Yes,Postgraduate
+STU0031,17,Female,Jabalpur,Science,BSc Biology,3.6,65.9,71,62,73,69.3,C,Pass,No,Yes,No,Postgraduate
+STU0032,20,Male,Indore,Commerce,Accounting,4.4,78.2,93,84,87,87.3,A,Pass,No,Yes,No,Graduate
+STU0033,17,Male,Jaipur,Management,BBA,5.0,55.6,61,44,58,54.4,D,Pass,No,Yes,No,Postgraduate
+STU0034,24,Female,Bhopal,Arts,BA Economics,3.8,87.8,76,82,78,78.8,B,Pass,Yes,Yes,Yes,Postgraduate
+STU0035,25,Male,Delhi,Commerce,Accounting,2.8,76.4,82,34,48,50.6,D,Pass,Yes,Yes,No,Graduate
+STU0036,21,Male,Indore,Science,BSc Biology,5.1,77.0,95,75,64,73.5,B,Pass,Yes,Yes,No,Postgraduate
+STU0037,20,Female,Indore,Arts,BA English,3.7,63.4,80,62,39,54.1,D,Pass,Yes,No,No,Graduate
+STU0038,21,Male,Mumbai,Commerce,Accounting,3.7,83.1,91,64,51,62.9,C,Pass,No,Yes,No,Diploma
+STU0039,24,Male,Mumbai,Science,BSc Physics,6.1,79.0,83,94,68,78.8,B,Pass,No,Yes,Yes,Graduate
+STU0040,20,Male,Lucknow,Arts,BA Economics,2.6,73.9,95,79,51,68.2,C,Pass,No,Yes,Yes,Graduate
+STU0041,22,Male,Gwalior,Commerce,Accounting,1.6,78.1,100,63,84,80.9,B,Pass,No,Yes,No,Diploma
+STU0042,21,Female,Indore,Management,Business Analytics,4.1,93.2,80,69,84,78.7,B,Pass,No,Yes,No,Postgraduate
+STU0043,17,Male,Jabalpur,Management,BBA,4.5,67.9,56,24,63,49.9,D,Pass,No,Yes,No,Diploma
+STU0044,20,Other,Gwalior,Science,BSc Physics,3.1,89.1,76,78,62,69.6,C,Pass,No,Yes,No,High School
+STU0045,25,Female,Indore,Management,BBA,2.6,98.4,72,73,96,84.3,B,Pass,No,Yes,Yes,Diploma
+STU0046,24,Male,Mumbai,Computer Science,BSc IT,4.8,44.5,67,39,53,51.6,D,Pass,No,Yes,Yes,Diploma
+STU0047,20,Male,Lucknow,Arts,BA English,4.1,83.4,82,75,100,88.9,A,Pass,No,Yes,Yes,Graduate
+STU0048,17,Female,Jaipur,Science,BSc Physics,2.0,77.0,73,62,53,59.7,C,Pass,Yes,No,No,Diploma
+STU0049,24,Female,Mumbai,Computer Science,BSc IT,3.1,81.7,60,69,48,56.7,C,Pass,No,No,No,Postgraduate
+STU0050,25,Male,Mumbai,Arts,BA English,1.7,88.0,94,45,54,59.3,C,Pass,No,Yes,No,Graduate
+STU0051,24,Male,Pune,Arts,BA Economics,0.9,60.1,60,45,67,59.0,C,Pass,No,Yes,Yes,Graduate
+STU0052,20,Male,Indore,Management,Business Analytics,4.0,88.7,80,47,84,72.1,B,Pass,No,Yes,No,Graduate
+STU0053,25,Male,Lucknow,Commerce,Accounting,3.5,69.4,92,58,68,69.8,C,Pass,Yes,Yes,No,Graduate
+STU0054,21,Female,Jaipur,Commerce,BCom,0.5,100.0,97,55,36,53.9,D,Pass,No,Yes,Yes,Diploma
+STU0055,18,Other,Lucknow,Management,Business Analytics,4.2,100.0,77,70,78,75.4,B,Pass,No,Yes,Yes,Postgraduate
+STU0056,19,Male,Pune,Commerce,BCom,3.0,100.0,57,80,80,75.4,B,Pass,No,Yes,No,Graduate
+STU0057,19,Male,Lucknow,Management,Business Analytics,2.7,76.9,48,40,74,58.6,C,Pass,No,Yes,Yes,High School
+STU0058,22,Female,Pune,Commerce,BCom,3.7,100.0,79,79,75,77.0,B,Pass,No,Yes,No,Postgraduate
+STU0059,24,Female,Lucknow,Commerce,Accounting,2.5,89.1,89,59,63,67.0,C,Pass,Yes,No,Yes,High School
+STU0060,24,Female,Indore,Computer Science,BCA,1.9,65.2,66,74,56,63.4,C,Pass,Yes,Yes,Yes,Diploma
+STU0061,17,Female,Lucknow,Management,BBA,4.1,77.8,84,54,73,69.5,C,Pass,No,Yes,No,Graduate
+STU0062,23,Male,Jaipur,Management,BBA,4.8,46.1,57,51,88,70.7,B,Pass,Yes,Yes,No,High School
+STU0063,18,Male,Indore,Arts,BA Economics,2.9,81.9,73,77,81,78.2,B,Pass,No,Yes,No,Graduate
+STU0064,19,Male,Delhi,Management,BBA,4.5,100.0,83,71,68,71.9,B,Pass,No,Yes,No,Diploma
+STU0065,22,Female,Jaipur,Arts,BA English,4.4,87.0,81,92,86,86.8,A,Pass,Yes,Yes,Yes,High School
+STU0066,19,Female,Indore,Arts,BA English,5.6,100.0,97,85,100,94.9,A,Pass,No,Yes,No,Postgraduate
+STU0067,17,Male,Gwalior,Commerce,BCom,3.1,100.0,83,71,79,77.4,B,Pass,No,Yes,Yes,Graduate
+STU0068,24,Female,Gwalior,Computer Science,BCA,3.7,53.0,72,77,80,77.5,B,Pass,No,Yes,Yes,Graduate
+STU0069,25,Male,Bhopal,Management,Business Analytics,4.7,76.1,60,67,78,71.1,B,Pass,No,Yes,Yes,Postgraduate
+STU0070,25,Male,Gwalior,Arts,BA Economics,3.5,81.8,58,61,93,76.4,B,Pass,Yes,Yes,No,Postgraduate
+STU0071,20,Male,Indore,Arts,BA Economics,3.0,95.0,37,75,97,78.4,B,Pass,No,Yes,Yes,High School
+STU0072,22,Female,Jaipur,Management,Business Analytics,2.7,100.0,71,96,72,79.0,B,Pass,No,Yes,Yes,Graduate
+STU0073,19,Male,Indore,Management,Business Analytics,2.5,90.7,70,71,70,70.3,B,Pass,No,No,Yes,High School
+STU0074,17,Female,Pune,Management,Business Analytics,3.3,68.3,83,44,61,60.3,C,Pass,Yes,Yes,No,Graduate
+STU0075,23,Other,Jabalpur,Arts,BA Economics,0.5,77.8,61,54,58,57.4,C,Pass,No,No,Yes,High School
+STU0076,21,Female,Indore,Science,BSc Maths,2.6,43.0,48,42,48,46.2,D,Pass,Yes,Yes,No,Graduate
+STU0077,22,Female,Jabalpur,Arts,BA Economics,1.1,83.5,67,57,86,73.5,B,Pass,No,Yes,Yes,Graduate
+STU0078,22,Female,Gwalior,Arts,BA Economics,3.8,85.8,66,85,91,84.2,B,Pass,No,Yes,Yes,High School
+STU0079,20,Female,Lucknow,Computer Science,Data Analytics,3.4,70.0,71,93,65,74.6,B,Pass,Yes,Yes,No,Graduate
+STU0080,20,Male,Indore,Science,BSc Biology,3.6,86.3,58,68,87,75.5,B,Pass,No,Yes,No,Diploma
+STU0081,24,Male,Indore,Management,Business Analytics,3.7,37.0,79,10,33,35.3,F,Fail,No,Yes,Yes,Graduate
+STU0082,19,Female,Mumbai,Arts,BA English,3.2,83.7,93,69,56,67.3,C,Pass,No,Yes,Yes,Graduate
+STU0083,20,Female,Nagpur,Arts,BA Economics,2.8,76.5,74,73,52,62.7,C,Pass,No,Yes,No,Postgraduate
+STU0084,19,Male,Gwalior,Management,BBA,3.5,88.3,78,79,52,65.3,C,Pass,No,Yes,No,Diploma
+STU0085,22,Male,Lucknow,Commerce,Accounting,5.7,96.4,78,86,96,89.4,A,Pass,No,Yes,Yes,Diploma
+STU0086,19,Female,Bhopal,Management,BBA,3.2,82.8,81,62,82,75.8,B,Pass,Yes,Yes,No,High School
+STU0087,25,Female,Jabalpur,Science,BSc Biology,3.3,74.2,68,75,74,73.1,B,Pass,No,Yes,No,Graduate
+STU0088,21,Female,Bhopal,Arts,BA Economics,3.2,92.6,88,73,66,72.5,B,Pass,No,Yes,No,Postgraduate
+STU0089,24,Male,Delhi,Science,BSc Biology,1.9,91.6,77,66,57,63.7,C,Pass,No,Yes,No,Graduate
+STU0090,22,Female,Delhi,Science,BSc Biology,3.4,100.0,55,94,79,78.7,B,Pass,No,Yes,Yes,Graduate
+STU0091,19,Male,Indore,Commerce,Accounting,2.3,77.2,55,69,87,75.2,B,Pass,Yes,Yes,No,High School
+STU0092,25,Male,Indore,Science,BSc Maths,5.0,100.0,70,100,87,87.5,A,Pass,No,No,No,High School
+STU0093,24,Other,Mumbai,Arts,BA English,4.1,74.1,67,69,84,76.1,B,Pass,No,Yes,Yes,Graduate
+STU0094,23,Male,Jaipur,Computer Science,Data Analytics,4.9,93.8,85,86,89,87.3,A,Pass,No,Yes,Yes,Diploma
+STU0095,25,Female,Bhopal,Commerce,Accounting,2.8,61.9,68,62,64,64.2,C,Pass,No,Yes,Yes,High School
+STU0096,17,Male,Indore,Computer Science,BSc IT,2.9,75.4,68,91,66,73.9,B,Pass,No,Yes,No,High School
+STU0097,23,Female,Pune,Management,BBA,5.0,78.9,78,72,77,75.7,B,Pass,Yes,Yes,No,High School
+STU0098,24,Male,Indore,Arts,BA Economics,2.7,92.3,84,70,86,80.8,B,Pass,No,Yes,No,Postgraduate
+STU0099,17,Male,Lucknow,Science,BSc Biology,1.2,61.4,61,50,34,44.2,D,Pass,No,Yes,Yes,High School
+STU0100,20,Female,Lucknow,Science,BSc Physics,0.5,76.4,51,54,34,43.4,D,Pass,No,Yes,Yes,Graduate
+STU0101,24,Male,Indore,Arts,BA English,4.1,77.9,57,65,78,69.9,C,Pass,No,Yes,No,High School
+STU0102,20,Female,Delhi,Commerce,BCom,5.9,60.8,68,95,59,71.6,B,Pass,Yes,Yes,No,Diploma
+STU0103,24,Male,Gwalior,Commerce,BCom,2.0,100.0,72,80,64,70.4,B,Pass,Yes,Yes,Yes,Graduate
+STU0104,20,Female,Bhopal,Management,BBA,5.1,77.4,95,80,88,87.0,A,Pass,No,No,No,Graduate
+STU0105,21,Female,Indore,Science,BSc Maths,1.6,61.4,68,60,46,54.6,D,Pass,Yes,Yes,No,Graduate
+STU0106,23,Female,Jaipur,Management,BBA,2.5,92.6,71,61,44,54.5,D,Pass,No,Yes,No,Graduate
+STU0107,21,Female,Nagpur,Commerce,Accounting,2.3,88.8,69,91,62,72.1,B,Pass,Yes,Yes,No,Diploma
+STU0108,24,Male,Jaipur,Management,Business Analytics,4.1,87.1,83,95,97,93.6,A,Pass,No,Yes,Yes,Graduate
+STU0109,21,Male,Bhopal,Science,BSc Physics,2.9,94.7,43,39,85,62.8,C,Pass,No,Yes,Yes,Graduate
+STU0110,17,Male,Jabalpur,Computer Science,BCA,2.6,72.5,43,66,78,67.4,C,Pass,Yes,Yes,No,Diploma
+STU0111,25,Female,Pune,Computer Science,BCA,4.1,88.6,72,35,61,55.4,C,Pass,No,Yes,No,Graduate
+STU0112,20,Female,Mumbai,Computer Science,BCA,4.0,100.0,72,80,57,66.9,C,Pass,No,Yes,No,High School
+STU0113,18,Male,Bhopal,Management,BBA,3.6,55.8,72,73,36,54.3,D,Pass,No,Yes,No,High School
+STU0114,18,Other,Lucknow,Management,Business Analytics,7.0,75.0,73,87,90,85.7,A,Pass,No,Yes,No,Diploma
+STU0115,25,Male,Indore,Management,Business Analytics,2.8,85.9,54,72,99,81.9,B,Pass,No,Yes,Yes,Diploma
+STU0116,18,Male,Bhopal,Science,BSc Maths,0.8,90.1,60,65,46,54.5,D,Pass,No,Yes,No,Graduate
+STU0117,18,Male,Jabalpur,Commerce,Accounting,3.2,83.1,79,70,75,74.3,B,Pass,No,Yes,Yes,Diploma
+STU0118,24,Female,Mumbai,Computer Science,BSc IT,4.9,62.8,82,55,61,63.4,C,Pass,Yes,Yes,No,High School
+STU0119,25,Female,Bhopal,Commerce,Accounting,4.0,58.3,90,59,63,67.2,C,Pass,No,No,No,Graduate
+STU0120,18,Female,Bhopal,Arts,BA Economics,2.6,100.0,50,88,94,83.4,B,Pass,No,No,Yes,Graduate
+STU0121,24,Male,Delhi,Computer Science,BSc IT,3.7,97.6,76,59,89,77.4,B,Pass,Yes,No,Yes,High School
+STU0122,21,Female,Pune,Management,BBA,3.5,76.8,67,23,51,45.8,D,Pass,Yes,Yes,Yes,Graduate
+STU0123,24,Male,Gwalior,Arts,BA Economics,6.5,99.2,78,76,84,80.4,B,Pass,No,Yes,No,Postgraduate
+STU0124,22,Male,Pune,Arts,BA English,5.7,83.0,92,66,68,72.2,B,Pass,No,Yes,No,High School
+STU0125,23,Female,Delhi,Management,Business Analytics,3.4,93.8,73,37,72,61.7,C,Pass,No,Yes,Yes,Diploma
+STU0126,24,Female,Pune,Commerce,Accounting,3.4,82.6,83,56,85,75.9,B,Pass,No,Yes,Yes,Graduate
+STU0127,18,Male,Pune,Science,BSc Biology,2.7,62.5,75,43,73,64.4,C,Pass,No,Yes,Yes,Graduate
+STU0128,17,Female,Pune,Commerce,BCom,0.5,77.4,90,57,59,64.6,C,Pass,No,Yes,No,Postgraduate
+STU0129,24,Male,Jabalpur,Commerce,BCom,2.8,50.9,54,16,56,43.6,D,Pass,No,Yes,Yes,Graduate
+STU0130,23,Male,Delhi,Management,BBA,4.0,82.3,87,53,100,83.3,B,Pass,No,No,No,Postgraduate
+STU0131,25,Female,Lucknow,Computer Science,BCA,3.5,76.5,91,63,43,58.6,C,Pass,Yes,Yes,Yes,Postgraduate
+STU0132,25,Male,Delhi,Arts,BA Economics,1.3,69.2,57,68,71,67.3,C,Pass,Yes,Yes,No,High School
+STU0133,23,Male,Nagpur,Science,BSc Maths,1.6,80.3,77,36,64,58.2,C,Pass,No,Yes,Yes,High School
+STU0134,23,Female,Bhopal,Management,Business Analytics,0.5,82.8,79,54,68,66.0,C,Pass,No,Yes,Yes,High School
+STU0135,18,Female,Pune,Management,BBA,1.3,58.3,64,43,61,56.2,C,Pass,No,Yes,No,Graduate
+STU0136,18,Male,Nagpur,Science,BSc Maths,5.0,58.1,73,89,78,80.3,B,Pass,No,Yes,Yes,Diploma
+STU0137,19,Female,Bhopal,Commerce,BCom,2.3,85.4,100,38,73,67.9,C,Pass,No,Yes,Yes,Postgraduate
+STU0138,17,Male,Mumbai,Arts,BA English,0.5,100.0,69,77,47,60.4,C,Pass,Yes,Yes,No,Graduate
+STU0139,20,Female,Indore,Science,BSc Physics,3.2,75.1,53,73,32,48.5,D,Pass,No,Yes,No,Diploma
+STU0140,24,Male,Indore,Science,BSc Biology,2.5,95.8,77,62,68,68.0,C,Pass,No,Yes,No,Postgraduate
+STU0141,22,Female,Gwalior,Commerce,BCom,3.1,100.0,87,61,79,75.2,B,Pass,No,Yes,No,Postgraduate
+STU0142,25,Female,Bhopal,Arts,BA Economics,2.9,55.4,84,65,50,61.3,C,Pass,No,Yes,No,High School
+STU0143,20,Female,Nagpur,Management,BBA,2.4,81.5,68,77,59,66.2,C,Pass,No,Yes,No,High School
+STU0144,20,Male,Nagpur,Management,Business Analytics,2.5,100.0,47,72,56,59.0,C,Pass,No,Yes,No,Diploma
+STU0145,18,Male,Indore,Computer Science,BSc IT,4.6,75.7,69,37,84,66.9,C,Pass,No,No,Yes,High School
+STU0146,17,Male,Indore,Commerce,BCom,4.7,58.4,68,96,86,85.4,A,Pass,No,Yes,No,Postgraduate
+STU0147,17,Male,Indore,Commerce,Accounting,2.9,57.8,64,74,41,55.5,C,Pass,No,Yes,Yes,Graduate
+STU0148,23,Male,Delhi,Arts,BA Economics,4.1,67.2,67,72,62,66.0,C,Pass,No,Yes,No,Diploma
+STU0149,22,Male,Mumbai,Commerce,Accounting,5.6,100.0,66,82,68,71.8,B,Pass,Yes,Yes,Yes,High School
+STU0150,21,Male,Pune,Science,BSc Maths,1.9,100.0,62,67,51,58.0,C,Pass,No,Yes,No,Graduate
+STU0151,22,Male,Pune,Science,BSc Biology,4.3,79.3,44,56,84,67.6,C,Pass,No,Yes,Yes,High School
+STU0152,25,Male,Indore,Management,BBA,3.6,73.8,49,62,65,60.9,C,Pass,Yes,Yes,Yes,Graduate
+STU0153,21,Other,Gwalior,Commerce,BCom,3.3,51.1,79,60,62,64.8,C,Pass,No,Yes,Yes,Diploma
+STU0154,20,Female,Jabalpur,Arts,BA English,4.1,91.1,81,69,45,59.4,C,Pass,No,Yes,Yes,Diploma
+STU0155,22,Male,Lucknow,Commerce,Accounting,2.0,74.8,78,61,47,57.4,C,Pass,No,Yes,Yes,Graduate
+STU0156,17,Male,Delhi,Science,BSc Physics,2.4,78.2,81,40,46,51.2,D,Pass,No,Yes,Yes,High School
+STU0157,17,Female,Gwalior,Commerce,Accounting,2.8,87.4,77,56,68,66.2,C,Pass,No,Yes,No,High School
+STU0158,23,Female,Indore,Management,Business Analytics,3.6,80.2,71,78,66,70.6,B,Pass,No,Yes,No,Postgraduate
+STU0159,17,Male,Jaipur,Science,BSc Physics,4.2,100.0,94,51,91,79.6,B,Pass,Yes,Yes,No,Graduate
+STU0160,23,Female,Delhi,Arts,BA English,1.0,85.6,79,47,46,52.9,D,Pass,No,Yes,Yes,High School
+STU0161,21,Female,Jabalpur,Computer Science,Data Analytics,2.4,93.0,78,65,80,75.1,B,Pass,No,No,No,Postgraduate
+STU0162,22,Female,Lucknow,Computer Science,BSc IT,4.0,37.2,90,13,51,47.4,D,Pass,No,Yes,No,Graduate
+STU0163,25,Female,Indore,Management,BBA,3.1,61.3,64,46,77,65.1,C,Pass,No,No,No,High School
+STU0164,18,Male,Delhi,Science,BSc Biology,3.2,61.7,63,50,45,50.1,D,Pass,No,Yes,Yes,Graduate
+STU0165,17,Male,Gwalior,Science,BSc Physics,2.0,100.0,69,70,44,56.8,C,Pass,No,Yes,No,Graduate
+STU0166,18,Female,Bhopal,Computer Science,BCA,3.4,69.0,69,61,56,60.1,C,Pass,Yes,Yes,Yes,Graduate
+STU0167,20,Female,Bhopal,Commerce,BCom,3.3,100.0,55,83,48,59.9,C,Pass,No,Yes,No,Diploma
+STU0168,23,Male,Indore,Science,BSc Physics,2.1,73.9,71,49,51,54.4,D,Pass,No,Yes,No,Graduate
+STU0169,20,Male,Pune,Science,BSc Maths,3.6,76.7,66,100,64,75.2,B,Pass,Yes,Yes,No,High School
+STU0170,17,Female,Indore,Computer Science,BSc IT,4.9,86.8,61,100,89,86.7,A,Pass,No,Yes,No,High School
+STU0171,23,Female,Gwalior,Management,BBA,3.9,78.2,64,71,71,69.6,C,Pass,No,Yes,Yes,Graduate
+STU0172,23,Female,Mumbai,Science,BSc Biology,2.5,87.2,65,67,80,73.1,B,Pass,No,Yes,Yes,Diploma
+STU0173,17,Female,Jabalpur,Commerce,Accounting,2.1,58.7,56,67,66,64.3,C,Pass,Yes,Yes,Yes,High School
+STU0174,20,Other,Nagpur,Arts,BA English,3.3,86.2,66,41,63,57.0,C,Pass,No,Yes,No,Graduate
+STU0175,25,Female,Indore,Arts,BA Economics,4.6,77.5,83,69,70,72.3,B,Pass,No,Yes,Yes,High School
+STU0176,19,Male,Delhi,Science,BSc Physics,3.3,47.8,61,65,66,64.7,C,Pass,No,No,No,Graduate
+STU0177,18,Male,Nagpur,Science,BSc Maths,3.9,80.7,82,72,85,80.5,B,Pass,No,No,Yes,Postgraduate
+STU0178,24,Male,Mumbai,Management,Business Analytics,0.8,68.0,75,50,49,54.5,D,Pass,Yes,Yes,Yes,High School
+STU0179,24,Female,Gwalior,Arts,BA Economics,3.5,84.9,70,70,74,72.0,B,Pass,No,Yes,Yes,Diploma
+STU0180,25,Male,Delhi,Commerce,Accounting,3.5,100.0,66,79,93,83.4,B,Pass,No,No,No,High School
+STU0181,25,Male,Indore,Science,BSc Physics,4.4,82.5,92,71,70,74.7,B,Pass,No,Yes,No,Graduate
+STU0182,19,Female,Gwalior,Computer Science,BCA,3.4,77.1,82,54,54,59.6,C,Pass,No,Yes,No,Diploma
+STU0183,25,Male,Indore,Management,BBA,1.9,96.2,76,74,88,81.4,B,Pass,No,Yes,Yes,Graduate
+STU0184,22,Male,Bhopal,Arts,BA Economics,1.5,82.7,68,68,71,69.5,C,Pass,No,Yes,Yes,Postgraduate
+STU0185,21,Female,Delhi,Science,BSc Biology,3.2,76.3,66,96,77,80.5,B,Pass,No,Yes,Yes,High School
+STU0186,17,Male,Jaipur,Arts,BA Economics,3.2,75.0,62,57,66,62.5,C,Pass,No,Yes,No,Graduate
+STU0187,20,Female,Lucknow,Commerce,BCom,2.6,89.1,83,86,97,90.9,A,Pass,No,Yes,No,Postgraduate
+STU0188,17,Female,Lucknow,Management,Business Analytics,2.1,79.2,58,45,69,59.6,C,Pass,No,Yes,No,High School
+STU0189,17,Female,Indore,Science,BSc Physics,5.4,65.1,65,71,73,70.8,B,Pass,No,Yes,No,Diploma
+STU0190,25,Male,Jabalpur,Arts,BA Economics,2.3,55.8,60,56,76,66.8,C,Pass,No,Yes,No,Diploma
+STU0191,20,Female,Jaipur,Arts,BA English,3.5,93.2,80,35,63,58.0,C,Pass,No,Yes,Yes,Graduate
+STU0192,19,Other,Delhi,Science,BSc Physics,2.6,83.8,56,75,82,74.7,B,Pass,Yes,Yes,No,Graduate
+STU0193,18,Female,Gwalior,Science,BSc Physics,3.2,93.5,76,77,79,77.8,B,Pass,No,Yes,Yes,High School
+STU0194,17,Female,Bhopal,Management,Business Analytics,2.6,94.3,82,100,60,76.4,B,Pass,Yes,Yes,Yes,Graduate
+STU0195,22,Female,Gwalior,Arts,BA Economics,2.5,100.0,70,88,77,78.9,B,Pass,No,No,No,Graduate
+STU0196,23,Female,Jaipur,Arts,BA Economics,3.8,100.0,70,80,97,86.5,A,Pass,No,Yes,No,Graduate
+STU0197,18,Male,Bhopal,Management,BBA,4.6,65.4,56,72,71,68.3,C,Pass,No,Yes,No,High School
+STU0198,25,Female,Delhi,Science,BSc Physics,2.9,49.2,69,70,45,57.3,C,Pass,Yes,Yes,No,Graduate
+STU0199,24,Male,Jaipur,Arts,BA English,3.5,61.4,45,65,70,63.5,C,Pass,No,No,Yes,Graduate
+STU0200,23,Female,Indore,Science,BSc Physics,5.3,93.7,73,65,94,81.1,B,Pass,No,Yes,No,Graduate
+STU0201,24,Female,Lucknow,Computer Science,BCA,2.2,78.6,68,58,77,69.5,C,Pass,No,No,No,Graduate
+STU0202,20,Male,Pune,Management,BBA,3.1,50.5,81,34,65,58.9,C,Pass,Yes,Yes,No,Graduate
+STU0203,17,Male,Delhi,Commerce,Accounting,4.6,81.9,67,60,51,56.9,C,Pass,No,Yes,Yes,Graduate
+STU0204,23,Male,Pune,Computer Science,BCA,1.2,93.5,84,51,56,60.1,C,Pass,No,Yes,Yes,High School
+STU0205,25,Female,Indore,Arts,BA Economics,4.8,100.0,69,78,100,87.2,A,Pass,No,Yes,No,Graduate
+STU0206,25,Male,Gwalior,Management,BBA,0.9,64.2,69,68,54,61.2,C,Pass,No,Yes,No,Graduate
+STU0207,22,Male,Jabalpur,Computer Science,BCA,2.6,88.8,81,58,64,65.6,C,Pass,No,Yes,No,Diploma
+STU0208,25,Female,Lucknow,Science,BSc Maths,0.5,60.4,47,49,35,41.6,D,Pass,Yes,Yes,Yes,Graduate
+STU0209,21,Male,Mumbai,Commerce,Accounting,2.6,82.6,78,51,69,65.4,C,Pass,No,Yes,No,Graduate
+STU0210,21,Female,Jaipur,Computer Science,Data Analytics,3.1,76.6,70,67,81,74.6,B,Pass,No,Yes,No,High School
+STU0211,19,Male,Delhi,Arts,BA Economics,2.1,93.3,98,64,37,57.3,C,Pass,Yes,Yes,No,High School
+STU0212,21,Female,Bhopal,Science,BSc Physics,4.5,99.3,81,90,76,81.2,B,Pass,No,No,Yes,Graduate
+STU0213,25,Male,Indore,Arts,BA English,5.2,85.8,56,73,100,83.1,B,Pass,Yes,Yes,Yes,High School
+STU0214,24,Male,Nagpur,Commerce,BCom,2.7,93.2,64,85,80,78.3,B,Pass,No,Yes,Yes,Postgraduate
+STU0215,21,Male,Pune,Management,BBA,4.1,86.8,81,78,71,75.1,B,Pass,Yes,Yes,No,High School
+STU0216,17,Male,Delhi,Arts,BA English,0.8,76.5,59,25,65,51.8,D,Pass,Yes,Yes,No,Postgraduate
+STU0217,23,Female,Lucknow,Commerce,Accounting,5.1,100.0,93,65,86,81.1,B,Pass,No,Yes,Yes,Graduate
+STU0218,19,Female,Gwalior,Science,BSc Biology,3.1,83.3,61,53,89,72.6,B,Pass,No,Yes,No,Postgraduate
+STU0219,17,Female,Jabalpur,Commerce,BCom,3.3,97.7,76,81,63,71.0,B,Pass,No,Yes,No,Postgraduate
+STU0220,25,Female,Jaipur,Commerce,BCom,0.5,92.5,57,80,61,65.9,C,Pass,No,Yes,No,High School
+STU0221,19,Male,Lucknow,Arts,BA English,0.9,89.5,57,54,36,45.6,D,Pass,No,Yes,No,Diploma
+STU0222,20,Male,Delhi,Arts,BA English,5.4,81.0,72,73,99,85.8,A,Pass,No,Yes,No,Diploma
+STU0223,24,Male,Mumbai,Computer Science,Data Analytics,4.8,94.9,73,73,91,82.0,B,Pass,No,Yes,No,Graduate
+STU0224,19,Female,Delhi,Management,Business Analytics,5.5,70.8,83,100,60,76.6,B,Pass,No,Yes,No,Postgraduate
+STU0225,20,Male,Indore,Management,BBA,1.9,75.5,74,45,53,54.8,D,Pass,No,Yes,Yes,Postgraduate
+STU0226,24,Male,Indore,Science,BSc Maths,2.3,87.7,88,58,76,73.0,B,Pass,No,Yes,Yes,Graduate
+STU0227,23,Female,Pune,Management,BBA,2.9,91.9,62,46,74,63.2,C,Pass,No,Yes,No,High School
+STU0228,20,Male,Mumbai,Management,Business Analytics,2.7,97.6,83,76,75,76.9,B,Pass,Yes,Yes,Yes,Postgraduate
+STU0229,18,Female,Gwalior,Management,BBA,3.0,83.6,34,71,68,62.1,C,Pass,No,Yes,No,Graduate
+STU0230,19,Male,Delhi,Computer Science,BCA,3.4,92.6,59,73,94,80.7,B,Pass,No,Yes,No,Diploma
+STU0231,21,Female,Mumbai,Management,Business Analytics,1.4,61.6,50,81,50,59.3,C,Pass,No,Yes,No,Graduate
+STU0232,24,Female,Indore,Arts,BA Economics,4.1,66.4,52,82,87,78.5,B,Pass,Yes,Yes,No,High School
+STU0233,23,Male,Delhi,Management,BBA,0.9,79.6,79,39,70,62.5,C,Pass,Yes,No,No,Graduate
+STU0234,21,Male,Pune,Computer Science,BSc IT,2.4,68.3,46,87,75,72.8,B,Pass,No,Yes,No,Diploma
+STU0235,23,Male,Delhi,Management,BBA,4.0,71.5,81,52,93,78.3,B,Pass,No,Yes,No,Diploma
+STU0236,21,Female,Mumbai,Arts,BA Economics,2.4,71.7,89,60,52,61.8,C,Pass,No,Yes,Yes,Graduate
+STU0237,19,Female,Jabalpur,Commerce,BCom,2.3,74.4,82,75,50,63.9,C,Pass,No,Yes,Yes,High School
+STU0238,18,Female,Indore,Science,BSc Maths,2.3,72.9,64,53,64,60.7,C,Pass,No,Yes,No,High School
+STU0239,22,Male,Mumbai,Management,BBA,4.1,63.6,75,64,96,82.2,B,Pass,No,Yes,No,High School
+STU0240,21,Male,Jaipur,Science,BSc Physics,3.9,76.5,81,72,89,82.3,B,Pass,No,Yes,No,Graduate
+STU0241,24,Male,Delhi,Arts,BA English,2.4,69.3,80,75,61,69.0,C,Pass,Yes,Yes,No,High School
+STU0242,21,Male,Jaipur,Science,BSc Maths,2.7,65.5,52,70,52,57.4,C,Pass,No,Yes,No,Postgraduate
+STU0243,18,Female,Jabalpur,Science,BSc Biology,0.6,68.5,50,25,58,46.5,D,Pass,No,Yes,Yes,Diploma
+STU0244,18,Male,Indore,Computer Science,BCA,4.3,94.0,75,79,86,81.7,B,Pass,No,Yes,Yes,High School
+STU0245,18,Male,Delhi,Commerce,BCom,2.3,68.7,61,42,77,63.3,C,Pass,No,Yes,No,High School
+STU0246,18,Male,Mumbai,Commerce,BCom,2.6,78.6,85,64,49,60.7,C,Pass,No,Yes,No,Diploma
+STU0247,25,Male,Indore,Arts,BA Economics,5.4,100.0,65,94,74,78.2,B,Pass,No,Yes,Yes,Graduate
+STU0248,22,Male,Gwalior,Science,BSc Physics,1.3,73.6,57,70,78,71.4,B,Pass,No,Yes,Yes,Graduate
+STU0249,21,Male,Nagpur,Arts,BA English,5.5,95.7,79,75,82,79.3,B,Pass,No,Yes,No,High School
+STU0250,20,Female,Indore,Management,BBA,2.8,42.8,43,40,65,53.1,D,Pass,No,Yes,Yes,Graduate
+STU0251,25,Female,Bhopal,Commerce,BCom,3.2,55.6,90,50,93,79.5,B,Pass,No,Yes,No,Graduate
+STU0252,21,Male,Bhopal,Management,BBA,2.1,76.2,61,96,63,72.5,B,Pass,No,Yes,No,Graduate
+STU0253,18,Female,Gwalior,Computer Science,BCA,5.4,81.1,97,85,100,94.9,A,Pass,No,Yes,Yes,Graduate
+STU0254,17,Female,Jabalpur,Computer Science,BSc IT,2.7,95.5,80,98,49,69.9,C,Pass,No,Yes,Yes,High School
+STU0255,21,Male,Pune,Commerce,BCom,2.7,72.1,72,77,57,66.0,C,Pass,No,Yes,No,Postgraduate
+STU0256,25,Female,Jabalpur,Commerce,Accounting,5.3,83.6,68,73,79,75.0,B,Pass,No,Yes,No,Graduate
+STU0257,20,Male,Nagpur,Management,BBA,3.7,93.3,80,74,74,75.2,B,Pass,No,Yes,Yes,Graduate
+STU0258,17,Female,Indore,Science,BSc Maths,2.7,84.8,77,79,91,84.6,B,Pass,No,Yes,No,Postgraduate
+STU0259,22,Female,Gwalior,Computer Science,BSc IT,2.5,68.6,66,79,67,70.4,B,Pass,No,Yes,Yes,High School
+STU0260,18,Female,Gwalior,Management,Business Analytics,2.0,90.0,71,41,80,66.5,C,Pass,Yes,Yes,Yes,High School
+STU0261,23,Male,Jabalpur,Commerce,BCom,1.6,81.2,61,53,75,65.6,C,Pass,Yes,Yes,No,Graduate
+STU0262,18,Other,Nagpur,Commerce,BCom,2.1,100.0,54,87,62,67.9,C,Pass,No,Yes,No,Diploma
+STU0263,17,Female,Bhopal,Arts,BA Economics,3.3,88.6,74,50,61,60.3,C,Pass,No,Yes,Yes,Diploma
+STU0264,19,Female,Lucknow,Commerce,BCom,3.0,66.5,55,67,68,65.1,C,Pass,Yes,No,No,Postgraduate
+STU0265,18,Female,Indore,Science,BSc Biology,3.7,87.4,65,71,65,66.8,C,Pass,No,Yes,No,Graduate
+STU0266,21,Male,Gwalior,Arts,BA Economics,7.4,74.8,88,76,91,85.9,A,Pass,No,Yes,No,Graduate
+STU0267,20,Female,Bhopal,Management,BBA,3.0,69.5,61,100,62,73.2,B,Pass,Yes,No,Yes,Diploma
+STU0268,24,Female,Lucknow,Arts,BA Economics,3.7,65.7,66,51,50,53.5,D,Pass,No,Yes,No,Postgraduate
+STU0269,24,Male,Jaipur,Management,Business Analytics,3.4,86.8,78,54,50,56.8,C,Pass,Yes,Yes,No,High School
+STU0270,19,Male,Indore,Computer Science,BSc IT,1.3,58.1,56,55,38,46.7,D,Pass,No,Yes,No,Graduate
+STU0271,21,Female,Bhopal,Management,Business Analytics,4.8,73.7,91,78,69,76.1,B,Pass,Yes,Yes,No,Graduate
+STU0272,21,Female,Pune,Computer Science,BSc IT,1.8,92.2,74,44,86,71.0,B,Pass,No,Yes,No,Graduate
+STU0273,18,Male,Bhopal,Computer Science,BCA,2.4,65.2,69,69,40,54.5,D,Pass,Yes,No,No,Graduate
+STU0274,24,Female,Jaipur,Arts,BA English,4.2,90.7,60,90,64,71.0,B,Pass,No,Yes,No,Graduate
+STU0275,21,Female,Delhi,Commerce,Accounting,3.5,94.1,72,50,90,74.4,B,Pass,No,Yes,Yes,Graduate
+STU0276,18,Male,Indore,Management,Business Analytics,1.7,82.6,89,54,71,69.5,C,Pass,No,Yes,No,Graduate
+STU0277,19,Male,Jaipur,Commerce,BCom,2.7,51.2,56,72,28,46.8,D,Pass,No,Yes,No,Diploma
+STU0278,19,Female,Mumbai,Computer Science,BSc IT,4.6,59.0,90,61,54,63.3,C,Pass,No,No,Yes,Postgraduate
+STU0279,19,Female,Jabalpur,Computer Science,BCA,3.1,71.8,74,72,98,85.4,A,Pass,No,No,No,High School
+STU0280,20,Male,Mumbai,Management,Business Analytics,2.6,70.9,79,59,67,67.0,C,Pass,Yes,Yes,No,High School
+STU0281,21,Male,Jabalpur,Arts,BA Economics,2.8,80.3,81,79,73,76.4,B,Pass,No,Yes,Yes,Graduate
+STU0282,22,Male,Delhi,Arts,BA Economics,2.6,78.8,67,60,74,68.4,C,Pass,No,Yes,No,Postgraduate
+STU0283,24,Male,Gwalior,Management,BBA,2.9,81.6,74,74,55,64.5,C,Pass,No,Yes,No,Postgraduate
+STU0284,22,Female,Lucknow,Management,BBA,5.0,70.7,64,74,73,71.5,B,Pass,Yes,Yes,Yes,Postgraduate
+STU0285,24,Female,Lucknow,Computer Science,BSc IT,3.6,79.7,70,45,49,52.0,D,Pass,Yes,No,No,Postgraduate
+STU0286,20,Male,Delhi,Computer Science,Data Analytics,3.5,82.5,97,58,71,72.3,B,Pass,No,Yes,Yes,Diploma
+STU0287,23,Male,Pune,Arts,BA English,2.1,63.3,76,67,47,58.8,C,Pass,No,No,No,Diploma
+STU0288,22,Male,Pune,Commerce,Accounting,1.1,60.5,75,78,63,69.9,C,Pass,Yes,Yes,No,High School
+STU0289,25,Female,Lucknow,Management,Business Analytics,1.7,78.9,69,74,66,69.0,C,Pass,No,Yes,No,Graduate
+STU0290,19,Male,Jabalpur,Management,Business Analytics,3.7,85.4,98,82,49,68.7,C,Pass,No,Yes,Yes,Graduate
+STU0291,25,Female,Pune,Science,BSc Biology,2.8,100.0,97,71,75,78.2,B,Pass,Yes,Yes,No,High School
+STU0292,23,Female,Lucknow,Science,BSc Maths,1.0,87.9,91,71,85,82.0,B,Pass,No,No,No,Postgraduate
+STU0293,19,Male,Gwalior,Management,BBA,1.4,58.7,73,85,77,78.6,B,Pass,No,Yes,No,Diploma
+STU0294,22,Male,Lucknow,Computer Science,Data Analytics,1.4,86.6,39,58,82,66.2,C,Pass,Yes,No,No,Postgraduate
+STU0295,25,Female,Pune,Computer Science,BSc IT,4.2,81.7,76,67,56,63.3,C,Pass,No,Yes,Yes,Graduate
+STU0296,25,Female,Gwalior,Computer Science,BCA,2.9,86.3,68,87,80,79.7,B,Pass,No,Yes,Yes,Graduate
+STU0297,19,Female,Pune,Computer Science,BCA,3.9,58.5,66,80,72,73.2,B,Pass,Yes,Yes,Yes,Postgraduate
+STU0298,20,Male,Jaipur,Arts,BA Economics,2.8,55.8,59,82,67,69.9,C,Pass,No,Yes,No,Diploma
+STU0299,18,Male,Gwalior,Commerce,BCom,3.9,59.3,86,59,79,74.4,B,Pass,No,No,No,Graduate
+STU0300,19,Male,Bhopal,Computer Science,BCA,5.4,92.7,69,87,71,75.4,B,Pass,Yes,Yes,No,Diploma
+STU0301,19,Female,Jaipur,Arts,BA Economics,4.0,66.4,84,68,50,62.2,C,Pass,No,Yes,Yes,Diploma
+STU0302,18,Male,Delhi,Management,BBA,4.2,89.0,80,72,67,71.1,B,Pass,No,Yes,Yes,Diploma
+STU0303,23,Female,Delhi,Commerce,BCom,3.3,77.1,76,97,54,71.3,B,Pass,No,Yes,Yes,Graduate
+STU0304,17,Female,Indore,Commerce,BCom,2.7,100.0,65,61,47,54.8,D,Pass,No,No,No,Diploma
+STU0305,19,Female,Delhi,Arts,BA Economics,0.9,98.6,75,61,76,71.3,B,Pass,Yes,Yes,No,High School
+STU0306,24,Male,Pune,Management,Business Analytics,4.9,68.2,82,66,78,75.2,B,Pass,No,Yes,No,Graduate
+STU0307,18,Male,Mumbai,Science,BSc Biology,4.9,86.8,87,93,69,79.8,B,Pass,No,Yes,No,Graduate
+STU0308,21,Male,Lucknow,Science,BSc Biology,1.0,100.0,64,53,63,60.2,C,Pass,Yes,No,Yes,Graduate
+STU0309,17,Male,Bhopal,Science,BSc Biology,4.4,88.1,84,79,74,77.5,B,Pass,No,Yes,Yes,High School
+STU0310,21,Female,Delhi,Science,BSc Maths,3.0,55.9,72,43,36,45.3,D,Pass,No,Yes,No,Diploma
+STU0311,19,Male,Mumbai,Management,BBA,1.7,86.6,59,63,56,58.7,C,Pass,No,No,No,Graduate
+STU0312,22,Male,Bhopal,Management,Business Analytics,6.9,96.9,93,84,61,74.3,B,Pass,No,Yes,No,Postgraduate
+STU0313,17,Female,Bhopal,Computer Science,Data Analytics,3.1,65.5,62,51,73,64.2,C,Pass,No,Yes,No,Graduate
+STU0314,19,Female,Bhopal,Arts,BA Economics,3.0,79.1,61,53,80,68.1,C,Pass,No,Yes,No,Graduate
+STU0315,25,Female,Pune,Science,BSc Physics,3.1,97.4,75,80,79,78.5,B,Pass,No,Yes,No,Graduate
+STU0316,24,Male,Jabalpur,Computer Science,BSc IT,2.5,99.6,61,62,49,55.3,C,Pass,No,Yes,Yes,Graduate
+STU0317,20,Male,Mumbai,Commerce,BCom,2.2,96.2,65,57,68,64.1,C,Pass,No,Yes,No,Graduate
+STU0318,25,Female,Jaipur,Commerce,Accounting,3.8,53.0,68,74,69,70.3,B,Pass,No,Yes,No,Diploma
+STU0319,18,Female,Jabalpur,Arts,BA English,2.6,59.2,76,67,78,74.3,B,Pass,No,Yes,No,Graduate
+STU0320,18,Male,Bhopal,Computer Science,BSc IT,1.9,96.9,92,47,65,65.0,C,Pass,Yes,Yes,No,Postgraduate
+STU0321,20,Female,Delhi,Management,Business Analytics,1.1,75.6,44,41,73,57.6,C,Pass,No,Yes,No,Postgraduate
+STU0322,23,Male,Gwalior,Science,BSc Physics,2.0,80.2,67,68,69,68.3,C,Pass,No,Yes,No,Graduate
+STU0323,19,Female,Jaipur,Management,Business Analytics,3.5,99.8,69,87,95,87.4,A,Pass,No,Yes,No,Graduate
+STU0324,19,Male,Lucknow,Arts,BA Economics,1.6,64.5,95,54,47,58.7,C,Pass,No,Yes,No,Graduate
+STU0325,19,Male,Mumbai,Arts,BA English,3.1,82.1,96,68,35,57.1,C,Pass,Yes,Yes,Yes,High School
+STU0326,24,Female,Delhi,Commerce,Accounting,2.7,79.3,46,47,68,57.3,C,Pass,No,No,No,High School
+STU0327,21,Male,Indore,Computer Science,BSc IT,1.7,83.8,89,66,73,74.1,B,Pass,No,Yes,Yes,Graduate
+STU0328,23,Female,Indore,Arts,BA Economics,1.6,82.5,50,65,57,58.0,C,Pass,Yes,Yes,Yes,Graduate
+STU0329,18,Female,Bhopal,Science,BSc Physics,2.8,67.8,55,41,29,37.8,F,Fail,No,No,No,Postgraduate
+STU0330,24,Female,Pune,Management,BBA,4.1,87.3,55,69,51,57.2,C,Pass,Yes,Yes,Yes,Postgraduate
+STU0331,19,Female,Mumbai,Management,BBA,2.5,59.5,41,55,56,52.7,D,Pass,Yes,No,Yes,Graduate
+STU0332,25,Female,Indore,Commerce,Accounting,3.2,90.4,82,48,51,56.3,C,Pass,No,Yes,No,Graduate
+STU0333,18,Female,Lucknow,Arts,BA English,4.9,84.6,78,97,80,84.7,B,Pass,No,Yes,No,Diploma
+STU0334,21,Female,Delhi,Computer Science,Data Analytics,0.5,77.2,63,44,94,72.8,B,Pass,No,Yes,No,Postgraduate
+STU0335,19,Female,Jabalpur,Computer Science,Data Analytics,2.3,66.4,86,80,70,76.2,B,Pass,No,No,No,High School
+STU0336,24,Female,Indore,Management,Business Analytics,1.0,81.1,69,84,51,64.5,C,Pass,No,Yes,Yes,High School
+STU0337,20,Male,Delhi,Science,BSc Physics,2.7,58.9,60,50,45,49.5,D,Pass,No,Yes,No,Graduate
+STU0338,20,Female,Indore,Computer Science,BSc IT,4.0,68.5,88,63,60,66.5,C,Pass,No,Yes,No,Graduate
+STU0339,23,Male,Bhopal,Management,Business Analytics,2.8,84.6,60,84,75,74.7,B,Pass,No,No,No,Diploma
+STU0340,20,Female,Gwalior,Arts,BA English,2.8,78.1,73,70,47,59.1,C,Pass,No,No,No,Postgraduate
+STU0341,21,Male,Jabalpur,Management,BBA,1.5,71.5,75,67,50,60.1,C,Pass,No,Yes,No,Graduate
+STU0342,17,Female,Lucknow,Commerce,BCom,3.2,57.8,60,59,61,60.2,C,Pass,No,Yes,Yes,High School
+STU0343,17,Male,Bhopal,Computer Science,Data Analytics,4.0,83.3,86,81,83,83.0,B,Pass,Yes,Yes,Yes,Graduate
+STU0344,25,Male,Pune,Arts,BA Economics,2.0,77.0,67,28,61,52.3,D,Pass,No,No,No,Postgraduate
+STU0345,23,Male,Gwalior,Commerce,BCom,2.6,70.9,85,75,66,72.5,B,Pass,Yes,Yes,No,Postgraduate
+STU0346,20,Male,Nagpur,Science,BSc Biology,6.4,78.9,72,61,91,78.2,B,Pass,No,Yes,No,High School
+STU0347,17,Male,Mumbai,Computer Science,Data Analytics,2.1,100.0,64,79,35,54.0,D,Pass,No,Yes,Yes,Diploma
+STU0348,17,Male,Indore,Arts,BA Economics,2.1,69.5,83,74,52,64.8,C,Pass,Yes,No,No,High School
+STU0349,24,Male,Indore,Commerce,BCom,4.6,73.7,74,56,89,76.1,B,Pass,No,No,Yes,Graduate
+STU0350,22,Male,Nagpur,Commerce,Accounting,1.8,82.3,66,100,69,77.7,B,Pass,No,Yes,No,Diploma
+STU0351,18,Male,Indore,Management,Business Analytics,2.6,98.4,75,56,63,63.3,C,Pass,No,Yes,Yes,Graduate
+STU0352,25,Male,Mumbai,Management,Business Analytics,3.9,59.2,71,69,49,59.4,C,Pass,No,Yes,No,Graduate
+STU0353,21,Male,Pune,Management,Business Analytics,2.0,67.6,55,51,67,59.8,C,Pass,No,Yes,Yes,Diploma
+STU0354,22,Male,Jabalpur,Computer Science,BSc IT,3.2,83.4,77,62,60,64.0,C,Pass,Yes,Yes,Yes,Graduate
+STU0355,24,Male,Pune,Management,Business Analytics,3.6,55.0,47,67,52,55.5,C,Pass,No,Yes,Yes,High School
+STU0356,19,Male,Delhi,Commerce,Accounting,4.8,73.2,77,76,82,79.2,B,Pass,Yes,Yes,No,Graduate
+STU0357,24,Male,Delhi,Computer Science,Data Analytics,2.7,100.0,78,100,56,73.6,B,Pass,Yes,Yes,No,Postgraduate
+STU0358,19,Female,Bhopal,Science,BSc Maths,4.2,64.5,93,85,78,83.1,B,Pass,No,Yes,Yes,High School
+STU0359,23,Male,Lucknow,Arts,BA English,2.0,63.3,59,61,60,60.1,C,Pass,Yes,Yes,No,High School
+STU0360,23,Male,Delhi,Management,Business Analytics,0.6,66.9,77,27,72,59.5,C,Pass,No,No,No,High School
+STU0361,20,Female,Lucknow,Commerce,BCom,2.3,71.3,59,66,81,72.1,B,Pass,No,Yes,No,High School
+STU0362,17,Male,Gwalior,Arts,BA English,4.3,74.6,70,55,94,77.5,B,Pass,No,Yes,No,Graduate
+STU0363,22,Male,Indore,Management,BBA,3.0,83.8,66,43,57,54.6,D,Pass,Yes,Yes,No,Graduate
+STU0364,20,Female,Gwalior,Management,BBA,2.6,93.3,61,59,72,65.9,C,Pass,No,Yes,No,High School
+STU0365,22,Male,Indore,Arts,BA Economics,3.3,81.4,72,67,80,74.5,B,Pass,No,Yes,Yes,High School
+STU0366,17,Male,Jaipur,Management,BBA,1.9,71.8,82,66,71,71.7,B,Pass,No,Yes,Yes,Diploma
+STU0367,25,Female,Pune,Commerce,BCom,3.4,71.4,73,61,37,51.4,D,Pass,No,Yes,Yes,Graduate
+STU0368,23,Female,Lucknow,Management,Business Analytics,3.8,85.3,71,53,75,67.6,C,Pass,No,Yes,Yes,Diploma
+STU0369,25,Male,Delhi,Commerce,Accounting,3.7,82.7,69,60,40,51.8,D,Pass,No,Yes,Yes,Graduate
+STU0370,24,Male,Mumbai,Computer Science,BSc IT,1.6,100.0,79,32,47,48.9,D,Pass,No,Yes,Yes,Graduate
+STU0371,23,Female,Indore,Computer Science,BCA,4.2,72.7,71,78,47,61.1,C,Pass,No,Yes,No,Postgraduate
+STU0372,21,Female,Jaipur,Computer Science,Data Analytics,3.3,71.5,59,46,67,59.1,C,Pass,Yes,Yes,Yes,Graduate
+STU0373,24,Male,Delhi,Arts,BA English,3.1,54.2,90,58,73,71.9,B,Pass,No,Yes,Yes,Graduate
+STU0374,25,Male,Lucknow,Science,BSc Biology,4.8,88.7,58,65,64,63.1,C,Pass,No,Yes,No,Graduate
+STU0375,20,Male,Jabalpur,Computer Science,BCA,3.9,83.3,99,83,67,78.2,B,Pass,No,Yes,No,Diploma
+STU0376,20,Male,Delhi,Computer Science,Data Analytics,3.3,62.9,78,63,86,77.5,B,Pass,No,Yes,Yes,Graduate
+STU0377,25,Female,Nagpur,Arts,BA English,2.3,74.3,62,65,70,66.9,C,Pass,No,Yes,Yes,Postgraduate
+STU0378,24,Female,Pune,Science,BSc Maths,6.6,66.6,86,66,100,87.0,A,Pass,No,Yes,No,Postgraduate
+STU0379,24,Male,Delhi,Arts,BA English,3.5,77.4,79,71,71,72.6,B,Pass,No,Yes,Yes,Postgraduate
+STU0380,22,Male,Jabalpur,Science,BSc Physics,2.2,64.4,73,38,54,53.0,D,Pass,No,Yes,No,High School
+STU0381,24,Female,Jaipur,Arts,BA Economics,2.2,100.0,79,52,58,60.4,C,Pass,Yes,Yes,No,Graduate
+STU0382,21,Female,Indore,Commerce,BCom,4.3,75.8,72,44,57,56.1,C,Pass,No,Yes,Yes,Diploma
+STU0383,21,Female,Delhi,Arts,BA English,2.2,98.0,81,71,98,86.5,A,Pass,No,Yes,Yes,Postgraduate
+STU0384,21,Female,Indore,Arts,BA English,4.7,81.8,53,58,85,70.5,B,Pass,No,Yes,No,High School
+STU0385,20,Female,Lucknow,Science,BSc Physics,2.3,68.4,74,87,87,84.4,B,Pass,No,Yes,No,Diploma
+STU0386,17,Female,Indore,Arts,BA Economics,2.2,82.5,66,71,68,68.5,C,Pass,Yes,Yes,No,High School
+STU0387,17,Female,Pune,Commerce,Accounting,5.5,82.4,85,92,85,87.1,A,Pass,No,Yes,Yes,Graduate
+STU0388,23,Female,Jaipur,Management,BBA,5.0,73.9,84,80,98,89.8,A,Pass,Yes,Yes,Yes,Diploma
+STU0389,24,Male,Jaipur,Management,BBA,4.3,90.2,71,78,95,85.1,A,Pass,No,Yes,No,Graduate
+STU0390,17,Female,Mumbai,Arts,BA Economics,1.7,96.2,53,58,70,63.0,C,Pass,No,No,Yes,High School
+STU0391,22,Female,Delhi,Science,BSc Biology,7.0,86.3,69,83,88,82.7,B,Pass,No,Yes,Yes,High School
+STU0392,17,Female,Jaipur,Management,BBA,0.7,56.1,53,33,57,49.0,D,Pass,No,Yes,Yes,Postgraduate
+STU0393,18,Female,Pune,Management,BBA,4.4,77.7,75,58,73,68.9,C,Pass,No,Yes,Yes,Graduate
+STU0394,21,Female,Pune,Computer Science,BSc IT,3.4,76.8,61,68,60,62.6,C,Pass,No,Yes,Yes,Postgraduate
+STU0395,18,Male,Mumbai,Science,BSc Biology,5.0,89.1,100,64,41,59.7,C,Pass,Yes,Yes,No,Diploma
+STU0396,18,Female,Delhi,Commerce,BCom,1.9,62.7,89,59,50,60.5,C,Pass,No,Yes,No,Diploma
+STU0397,20,Female,Jabalpur,Arts,BA English,4.8,82.1,80,62,75,72.1,B,Pass,Yes,Yes,No,Graduate
+STU0398,19,Female,Pune,Science,BSc Physics,0.7,81.8,74,66,67,68.1,C,Pass,No,Yes,No,Graduate
+STU0399,20,Female,Bhopal,Computer Science,BCA,2.4,100.0,81,63,77,73.6,B,Pass,Yes,Yes,No,Diploma
+STU0400,23,Female,Nagpur,Arts,BA Economics,2.7,63.2,75,55,60,61.5,C,Pass,No,Yes,Yes,High School
+STU0401,18,Female,Gwalior,Computer Science,Data Analytics,4.3,77.3,72,69,72,71.1,B,Pass,No,Yes,Yes,Diploma
+STU0402,19,Male,Lucknow,Commerce,BCom,4.4,81.5,82,50,100,81.4,B,Pass,No,Yes,No,Diploma
+STU0403,18,Female,Gwalior,Science,BSc Physics,3.6,100.0,89,79,63,73.0,B,Pass,No,Yes,No,High School
+STU0404,25,Male,Lucknow,Science,BSc Maths,4.1,74.7,84,56,52,59.6,C,Pass,No,Yes,Yes,High School
+STU0405,21,Female,Delhi,Science,BSc Biology,1.0,59.5,66,82,64,69.8,C,Pass,No,Yes,No,Diploma
+STU0406,22,Female,Gwalior,Computer Science,Data Analytics,4.4,71.7,70,70,80,75.0,B,Pass,No,Yes,No,Graduate
+STU0407,22,Female,Indore,Commerce,BCom,3.1,78.9,67,66,68,67.2,C,Pass,No,Yes,Yes,Postgraduate
+STU0408,21,Male,Nagpur,Commerce,BCom,2.3,98.6,62,79,62,67.1,C,Pass,No,Yes,No,High School
+STU0409,23,Female,Nagpur,Science,BSc Biology,2.1,55.4,59,26,43,41.1,D,Pass,Yes,Yes,Yes,High School
+STU0410,24,Female,Bhopal,Commerce,BCom,4.4,90.6,84,63,78,74.7,B,Pass,No,Yes,Yes,Graduate
+STU0411,24,Female,Indore,Management,BBA,2.3,70.6,66,37,72,60.3,C,Pass,No,Yes,Yes,Postgraduate
+STU0412,19,Female,Delhi,Commerce,BCom,3.3,61.4,75,42,47,51.1,D,Pass,No,Yes,No,High School
+STU0413,23,Male,Mumbai,Management,Business Analytics,3.6,69.2,70,72,63,67.1,C,Pass,No,Yes,No,High School
+STU0414,25,Male,Pune,Science,BSc Biology,2.0,66.0,67,67,80,73.5,B,Pass,No,Yes,No,Graduate
+STU0415,24,Female,Gwalior,Commerce,Accounting,4.9,89.0,65,68,78,72.4,B,Pass,No,Yes,Yes,Postgraduate
+STU0416,21,Female,Jaipur,Arts,BA Economics,3.1,81.9,84,62,82,76.4,B,Pass,No,Yes,No,High School
+STU0417,21,Male,Delhi,Arts,BA English,4.7,87.6,65,100,86,86.0,A,Pass,No,Yes,Yes,High School
+STU0418,17,Female,Jaipur,Arts,BA Economics,2.5,74.3,60,60,94,77.0,B,Pass,No,Yes,Yes,Graduate
+STU0419,25,Female,Nagpur,Science,BSc Physics,0.6,93.7,91,61,32,52.5,D,Pass,No,Yes,Yes,Postgraduate
+STU0420,17,Female,Nagpur,Computer Science,BSc IT,3.4,72.3,58,60,73,66.1,C,Pass,No,No,No,Graduate
+STU0421,24,Male,Mumbai,Science,BSc Physics,4.0,93.8,65,82,80,77.6,B,Pass,No,Yes,Yes,Graduate
+STU0422,17,Male,Jabalpur,Arts,BA English,4.4,56.2,75,57,57,60.6,C,Pass,No,Yes,No,Graduate
+STU0423,18,Male,Delhi,Management,BBA,2.8,68.2,76,66,41,55.5,C,Pass,No,Yes,Yes,High School
+STU0424,23,Male,Mumbai,Commerce,BCom,5.5,82.9,74,62,72,69.4,C,Pass,No,No,Yes,Graduate
+STU0425,25,Female,Pune,Computer Science,Data Analytics,0.5,76.3,62,67,30,47.5,D,Pass,Yes,Yes,Yes,Graduate
+STU0426,22,Male,Mumbai,Commerce,BCom,2.1,54.9,54,56,46,50.6,D,Pass,No,Yes,Yes,Diploma
+STU0427,19,Female,Indore,Arts,BA English,3.2,92.3,78,72,90,82.2,B,Pass,No,Yes,No,Diploma
+STU0428,21,Male,Gwalior,Management,BBA,1.7,89.2,55,60,62,60.0,C,Pass,No,Yes,Yes,Graduate
+STU0429,25,Female,Delhi,Computer Science,Data Analytics,5.9,74.1,96,76,85,84.5,B,Pass,Yes,Yes,Yes,High School
+STU0430,18,Male,Jabalpur,Science,BSc Maths,4.2,96.3,62,64,57,60.1,C,Pass,No,Yes,Yes,High School
+STU0431,20,Female,Pune,Commerce,BCom,4.7,100.0,64,62,69,65.9,C,Pass,Yes,Yes,Yes,High School
+STU0432,23,Female,Indore,Science,BSc Biology,2.8,86.5,68,63,70,67.5,C,Pass,No,Yes,Yes,Diploma
+STU0433,21,Male,Indore,Computer Science,BCA,3.4,58.1,68,61,56,59.9,C,Pass,No,Yes,Yes,Graduate
+STU0434,25,Male,Mumbai,Management,Business Analytics,3.2,58.9,65,56,70,64.8,C,Pass,Yes,No,Yes,High School
+STU0435,22,Male,Gwalior,Arts,BA Economics,0.8,79.6,86,45,60,60.7,C,Pass,No,Yes,No,Graduate
+STU0436,25,Female,Indore,Arts,BA Economics,2.3,84.9,61,32,67,55.3,C,Pass,No,Yes,Yes,Graduate
+STU0437,19,Female,Jabalpur,Arts,BA Economics,4.6,100.0,86,76,75,77.5,B,Pass,No,Yes,No,Graduate
+STU0438,25,Female,Delhi,Arts,BA English,2.3,76.9,69,100,49,68.3,C,Pass,No,Yes,No,Diploma
+STU0439,24,Male,Mumbai,Computer Science,BSc IT,3.9,82.6,82,91,87,87.2,A,Pass,Yes,Yes,Yes,Graduate
+STU0440,21,Female,Indore,Commerce,Accounting,1.5,54.9,64,31,40,42.1,D,Pass,No,Yes,No,Graduate
+STU0441,20,Male,Bhopal,Commerce,BCom,2.2,67.0,85,73,71,74.4,B,Pass,No,Yes,Yes,Postgraduate
+STU0442,19,Female,Pune,Management,Business Analytics,2.8,83.1,67,79,45,59.6,C,Pass,No,Yes,Yes,High School
+STU0443,17,Female,Jaipur,Arts,BA English,2.9,89.9,62,80,84,78.4,B,Pass,No,Yes,No,Graduate
+STU0444,24,Male,Mumbai,Management,Business Analytics,3.1,98.0,94,93,87,90.2,A,Pass,Yes,Yes,No,High School
+STU0445,17,Female,Pune,Computer Science,BCA,3.9,85.4,61,69,52,58.9,C,Pass,No,Yes,Yes,Graduate
+STU0446,20,Female,Nagpur,Computer Science,BCA,2.3,52.2,71,49,51,54.4,D,Pass,Yes,Yes,No,Diploma
+STU0447,18,Female,Jabalpur,Computer Science,Data Analytics,1.9,67.3,80,85,68,75.5,B,Pass,No,Yes,No,Graduate
+STU0448,18,Female,Mumbai,Computer Science,BCA,4.1,83.6,65,59,89,75.2,B,Pass,No,Yes,No,Graduate
+STU0449,20,Male,Gwalior,Commerce,BCom,1.8,63.5,74,54,59,60.5,C,Pass,No,No,Yes,Graduate
+STU0450,25,Male,Indore,Management,BBA,2.3,66.2,70,84,92,85.2,A,Pass,No,Yes,No,High School
+STU0451,19,Male,Gwalior,Computer Science,BCA,4.7,63.2,87,82,75,79.5,B,Pass,Yes,Yes,Yes,Graduate
+STU0452,17,Male,Pune,Arts,BA Economics,1.5,98.1,74,64,60,64.0,C,Pass,No,Yes,Yes,Diploma
+STU0453,22,Female,Nagpur,Science,BSc Physics,3.1,72.0,70,57,69,65.6,C,Pass,No,Yes,Yes,Postgraduate
+STU0454,22,Female,Lucknow,Commerce,BCom,5.7,88.5,84,78,73,76.7,B,Pass,No,Yes,Yes,High School
+STU0455,23,Female,Jaipur,Management,BBA,4.6,95.2,68,66,86,76.4,B,Pass,No,Yes,Yes,High School
+STU0456,25,Female,Jaipur,Arts,BA English,1.2,55.3,55,57,64,60.1,C,Pass,No,Yes,Yes,Graduate
+STU0457,21,Female,Jaipur,Science,BSc Physics,4.2,59.5,75,69,85,78.2,B,Pass,No,Yes,No,Graduate
+STU0458,24,Female,Delhi,Computer Science,BSc IT,4.5,97.1,55,85,95,84.0,B,Pass,No,Yes,No,Postgraduate
+STU0459,22,Female,Indore,Science,BSc Maths,2.3,68.4,71,75,97,85.2,A,Pass,No,Yes,No,High School
+STU0460,24,Female,Jaipur,Arts,BA Economics,3.1,82.5,78,67,50,60.7,C,Pass,No,Yes,No,Graduate
+STU0461,18,Female,Lucknow,Management,Business Analytics,3.4,75.2,61,93,54,67.1,C,Pass,No,Yes,No,Graduate
+STU0462,18,Female,Lucknow,Commerce,Accounting,3.0,63.1,70,47,71,63.6,C,Pass,No,Yes,No,Postgraduate
+STU0463,22,Male,Bhopal,Management,Business Analytics,2.7,81.8,57,52,78,66.0,C,Pass,No,Yes,No,High School
+STU0464,21,Male,Mumbai,Computer Science,BSc IT,4.3,100.0,66,61,69,66.0,C,Pass,Yes,Yes,No,Graduate
+STU0465,24,Male,Indore,Computer Science,BCA,4.0,88.1,65,64,42,53.2,D,Pass,No,Yes,Yes,Graduate
+STU0466,25,Female,Pune,Computer Science,BSc IT,3.8,83.6,74,47,64,60.9,C,Pass,No,Yes,No,Diploma
+STU0467,23,Female,Pune,Commerce,BCom,4.1,66.7,86,64,48,60.4,C,Pass,No,Yes,Yes,Graduate
+STU0468,23,Male,Jaipur,Science,BSc Maths,3.4,83.0,58,55,38,47.1,D,Pass,No,No,Yes,Graduate
+STU0469,24,Female,Pune,Commerce,Accounting,5.5,100.0,92,86,70,79.2,B,Pass,Yes,Yes,No,Postgraduate
+STU0470,22,Male,Jabalpur,Commerce,Accounting,3.9,69.9,57,91,100,88.7,A,Pass,Yes,Yes,Yes,High School
+STU0471,22,Male,Mumbai,Science,BSc Biology,3.5,90.1,69,47,83,69.4,C,Pass,No,No,No,High School
+STU0472,19,Female,Bhopal,Management,BBA,3.9,99.0,60,66,81,72.3,B,Pass,No,Yes,No,Graduate
+STU0473,23,Female,Gwalior,Science,BSc Maths,3.8,84.5,78,67,63,67.2,C,Pass,No,Yes,No,Postgraduate
+STU0474,21,Female,Bhopal,Computer Science,BSc IT,1.4,75.0,68,62,68,66.2,C,Pass,No,No,No,High School
+STU0475,23,Female,Pune,Arts,BA Economics,3.1,78.4,78,100,72,81.6,B,Pass,Yes,Yes,No,Graduate
+STU0476,24,Male,Nagpur,Commerce,Accounting,0.7,87.4,90,28,85,68.9,C,Pass,No,Yes,No,High School
+STU0477,24,Female,Jabalpur,Commerce,BCom,4.0,72.2,50,78,97,81.9,B,Pass,No,Yes,No,Postgraduate
+STU0478,18,Male,Indore,Science,BSc Biology,1.2,88.9,74,53,62,61.7,C,Pass,No,Yes,No,Graduate
+STU0479,20,Male,Nagpur,Management,BBA,3.6,92.0,72,76,72,73.2,B,Pass,No,Yes,No,Graduate
+STU0480,20,Female,Delhi,Arts,BA Economics,2.5,55.0,75,61,72,69.3,C,Pass,No,Yes,No,Graduate
+STU0481,21,Male,Nagpur,Computer Science,BCA,5.1,86.4,66,100,74,80.2,B,Pass,No,Yes,No,Graduate
+STU0482,25,Female,Jaipur,Commerce,BCom,0.6,74.1,79,64,58,64.0,C,Pass,No,Yes,No,Postgraduate
+STU0483,25,Female,Delhi,Science,BSc Maths,0.5,83.4,97,34,56,57.6,C,Pass,No,Yes,No,Graduate
+STU0484,22,Male,Jaipur,Science,BSc Maths,7.7,80.1,88,59,80,75.3,B,Pass,No,Yes,Yes,Graduate
+STU0485,20,Male,Indore,Management,BBA,0.6,84.3,73,30,78,62.6,C,Pass,No,Yes,Yes,Graduate
+STU0486,25,Male,Bhopal,Arts,BA English,1.1,67.7,64,61,63,62.6,C,Pass,No,Yes,No,High School
+STU0487,21,Female,Bhopal,Arts,BA English,0.5,100.0,71,52,94,76.8,B,Pass,No,Yes,No,Graduate
+STU0488,21,Female,Delhi,Computer Science,BSc IT,4.0,77.2,89,100,77,86.3,A,Pass,No,Yes,No,Postgraduate
+STU0489,21,Male,Indore,Commerce,BCom,2.5,77.2,93,71,52,65.9,C,Pass,No,Yes,Yes,Postgraduate
+STU0490,22,Male,Mumbai,Arts,BA Economics,3.7,100.0,76,62,84,75.8,B,Pass,No,Yes,Yes,Graduate
+STU0491,25,Female,Jaipur,Science,BSc Maths,3.0,70.1,58,92,73,75.7,B,Pass,No,Yes,No,Graduate
+STU0492,25,Female,Pune,Science,BSc Physics,3.7,72.6,56,69,67,65.4,C,Pass,No,Yes,No,Diploma
+STU0493,18,Female,Jabalpur,Commerce,Accounting,3.5,80.8,62,65,42,52.9,D,Pass,No,Yes,Yes,Graduate
+STU0494,22,Female,Bhopal,Science,BSc Physics,3.9,98.1,84,88,100,93.2,A,Pass,No,Yes,Yes,Graduate
+STU0495,17,Male,Gwalior,Arts,BA English,2.8,88.9,71,84,91,84.9,B,Pass,No,Yes,No,High School
+STU0496,20,Male,Nagpur,Management,BBA,0.9,74.0,82,63,89,79.8,B,Pass,Yes,Yes,Yes,High School
+STU0497,23,Male,Indore,Science,BSc Maths,2.3,95.9,84,84,66,75.0,B,Pass,No,Yes,Yes,High School
+STU0498,20,Male,Gwalior,Management,Business Analytics,2.9,89.6,93,98,89,92.5,A,Pass,No,Yes,No,Graduate
+STU0499,20,Female,Lucknow,Arts,BA Economics,2.7,75.7,72,89,63,72.6,B,Pass,No,Yes,Yes,High School
+STU0500,24,Female,Pune,Commerce,BCom,3.0,85.4,76,68,73,72.1,B,Pass,No,Yes,No,Graduate
